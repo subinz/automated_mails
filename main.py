@@ -3,6 +3,8 @@ import pandas
 from news import NewsFeed
 import datetime
 
+# second testing of commit
+# second line
 df = pandas.read_excel('people.xlsx')
 
 for index, row in df.iterrows():
